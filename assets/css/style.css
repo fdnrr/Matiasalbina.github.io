@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: rgb(15, 182, 15);
+    color: rgb(31, 27, 27);
+    font-family: sans-serif;
+}
+
+ul {
+    list-style-type: none;
+    font-family: 'roboto';
+}
+
+form {
+    background-color: rgb(15, 182, 15);
+    font-family: sans-serif;
+}
+
+label {
+    font-family: 'roboto';
+}
+
+.card {
+    font-family: 'roboto';
+}
+ strong {
+    font-family: sans-serif;
+ }
